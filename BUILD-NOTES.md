@@ -48,4 +48,6 @@ Deadline: Thu 26 Nov 2026 12:40 WIB. $2, winner takes all, 1 paid place.
   Guardrails met; L1 regrade reproduced byte for byte (deterministic).
   result_sha256 `78d502169a29e6c9080df80e0e0c1bc22d08ef0efdb6dc1c58c4edfc017e9cca`.
   Eligible: ranked yes, prize no (below hold cash).
-- Commit: (filled after push.)
+- Commit: `4ed146ba5690ba676fb1df1aa58978d681cc0fef` (root commit, branch main, 9 files,
+  1425 insertions) — https://github.com/samidyt/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b-makefun.
+  GitHub About confirmed via API read-back: homepage = bounty URL, topic `makefun`.
